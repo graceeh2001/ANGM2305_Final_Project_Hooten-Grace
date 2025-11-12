@@ -2,7 +2,7 @@
 Customizable Avatar
 
 ## Repository
-<Link to your project's public GitHub respository>
+<https://github.com/graceeh2001/ANGM2305_Final_Project_Hooten-Grace.git>
 
 ## Description
 For my final project, my program will allow the user to customize their own video game character by choosing their skin tone, hairstyle/color, clothing, etc. This is relevant to the arts because it can be used for video game programming. 
