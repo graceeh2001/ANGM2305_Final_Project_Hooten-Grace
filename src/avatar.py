@@ -5,8 +5,8 @@ import random
 pygame.init()
 
 #window size 
-WINDOW_WIDTH = 800
-WINDOW_HEIGHT = 600
+WINDOW_WIDTH = 920
+WINDOW_HEIGHT = 1000
 window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 pygame.display.set_caption("Avatar Randomizer <3")
 
