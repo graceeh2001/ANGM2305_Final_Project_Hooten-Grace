@@ -3,7 +3,7 @@
 # PROJECT TITLE
 Avatar Randomizer
 ## Demo
-Demo Video: <URL>
+Demo Video: <https://youtu.be/XibWbVBvq3Y>
 
 ## GitHub Repository
 GitHub Repo: <https://github.com/graceeh2001/ANGM2305_Final_Project_Hooten-Grace.git>
