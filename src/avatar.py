@@ -8,7 +8,7 @@ pygame.init()
 WINDOW_WIDTH = 800
 WINDOW_HEIGHT = 600
 window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-pygame.display.set_caption("Random Avatar <3")
+pygame.display.set_caption("Avatar Randomizer <3")
 
 #bg
 WHITE = (255, 255, 255)
